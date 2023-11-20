@@ -11,6 +11,7 @@ if (eta < 18) {
     //sconto del 20% per i minorenni
     prezzo_totale *= 0.8;
 } else if (eta >= 65) {
+    // sconto del 40% per gli over 65
     prezzo_totale *= 0.6;
 }
 
