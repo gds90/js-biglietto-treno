@@ -17,5 +17,5 @@ SOTTOPROBLEMI:
 - Permettiamo all'utente l'inserimento della distanza da percorrere in chilometri;
 - Calcoliamo il prezzo del biglietto, tenendo conto che il prezzo per km percorso è di 0.21€/km; 
 - Applico lo sconto in base all'età: se l'età del passeggero è minore di 18, sconto del 20%; se l'età del passeggero è over 65, sconto del 40%;
-- Formato con la funzione to Fixed il prezzo totale del biglietto con massimo 2 decimali;
+- Formatto con la funzione to Fixed il prezzo totale del biglietto con massimo 2 decimali;
 - Stampo il prezzo finale in console;
